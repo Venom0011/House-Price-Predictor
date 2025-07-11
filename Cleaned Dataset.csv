@@ -1,0 +1,586 @@
+,Size,Availability,Furnishing,Price,Flat Size,Location,Balcony,Ready to Move,Under Construction,furnished,semi-furnished,unfurnished,furnished,semi-furnished,unfurnished
+0,900,Ready to Move,semi-furnished,101.0,2,Kharadi,2,True,False,False,True,False,False,True,False
+1,1500,Ready to Move,unfurnished,210.0,3,Viman Nagar,3,True,False,False,False,True,False,False,True
+2,1280,Ready to Move,semi-furnished,153.0,3,Kharadi,2,True,False,False,True,False,False,True,False
+3,1724,Under Construction,unfurnished,275.0,4,Baner,3,False,True,False,False,True,False,False,True
+4,1150,Ready to Move,semi-furnished,175.0,3,Kharadi,3,True,False,False,True,False,False,True,False
+5,1860,Under Construction,semi-furnished,385.0,4,Kothrud,2,False,True,False,True,False,False,True,False
+6,1065,Ready to Move,unfurnished,168.0,3,Kharadi,2,True,False,False,False,True,False,False,True
+7,1150,Ready to Move,unfurnished,185.0,3,Baner,3,True,False,False,False,True,False,False,True
+8,956,Under Construction,semi-furnished,103.0,2,Baner,2,False,True,False,True,False,False,True,False
+9,770,Ready to Move,unfurnished,125.0,2,Baner,2,True,False,False,False,True,False,False,True
+10,450,Ready to Move,unfurnished,50.0,1,Kondhwa,1,True,False,False,False,True,False,False,True
+11,2600,Ready to Move,semi-furnished,475.0,4,Baner,2,True,False,False,True,False,False,True,False
+12,900,Ready to Move,semi-furnished,101.0,2,Kharadi,2,True,False,False,True,False,False,True,False
+13,1500,Ready to Move,unfurnished,210.0,3,Viman Nagar,3,True,False,False,False,True,False,False,True
+14,1280,Ready to Move,semi-furnished,153.0,3,Kharadi,3,True,False,False,True,False,False,True,False
+15,1724,Under Construction,unfurnished,275.0,4,Baner,3,False,True,False,False,True,False,False,True
+16,1150,Ready to Move,semi-furnished,175.0,3,Kharadi,3,True,False,False,True,False,False,True,False
+17,1860,Under Construction,semi-furnished,385.0,4,Kothrud,3,False,True,False,True,False,False,True,False
+18,1065,Ready to Move,unfurnished,168.0,3,Kharadi,3,True,False,False,False,True,False,False,True
+19,1150,Ready to Move,unfurnished,185.0,3,Baner,3,True,False,False,False,True,False,False,True
+20,956,Under Construction,semi-furnished,103.0,2,Baner,2,False,True,False,True,False,False,True,False
+21,770,Ready to Move,unfurnished,125.0,2,Baner,3,True,False,False,False,True,False,False,True
+22,450,Ready to Move,unfurnished,50.0,1,Kondhwa,1,True,False,False,False,True,False,False,True
+23,2600,Ready to Move,semi-furnished,475.0,4,Baner,2,True,False,False,True,False,False,True,False
+24,1348,Ready to Move,unfurnished,178.0,3,Balewadi,2,True,False,False,False,True,False,False,True
+25,1080,Ready to Move,semi-furnished,158.0,3,Kharadi,2,True,False,False,True,False,False,True,False
+26,1345,Ready to Move,unfurnished,142.0,3,Wakad,2,True,False,False,False,True,False,False,True
+27,650,Ready to Move,semi-furnished,61.0,2,Chinchwad,2,True,False,False,True,False,False,True,False
+28,1000,Ready to Move,semi-furnished,67.0,2,Kharadi,1,True,False,False,True,False,False,True,False
+29,1330,Ready to Move,unfurnished,135.0,4,Wakad,2,True,False,False,False,True,False,False,True
+30,1220,Ready to Move,unfurnished,148.0,3,Wakad,3,True,False,False,False,True,False,False,True
+31,1175,Under Construction,unfurnished,233.0,3,Kothrud,2,False,True,False,False,True,False,False,True
+32,830,Ready to Move,semi-furnished,78.0,2,Hadapsar,2,True,False,False,True,False,False,True,False
+33,1550,Under Construction,unfurnished,280.0,3,Baner,2,False,True,False,False,True,False,False,True
+34,625,Ready to Move,unfurnished,37.0,1,Kondhwa,1,True,False,False,False,True,False,False,True
+35,505,Ready to Move,unfurnished,30.0,1,Hadapsar,1,True,False,False,False,True,False,False,True
+36,665,Under Construction,unfurnished,51.9,2,Hadapsar,2,False,True,False,False,True,False,False,True
+37,1311,Ready to Move,unfurnished,149.0,3,Kondhwa,3,True,False,False,False,True,False,False,True
+38,751,Under Construction,unfurnished,91.5,2,other,2,False,True,False,False,True,False,False,True
+39,1000,Ready to Move,unfurnished,140.0,3,Kharadi,2,True,False,False,False,True,False,False,True
+40,1178,Under Construction,unfurnished,179.0,3,Baner,2,False,True,False,False,True,False,False,True
+41,1088,Under Construction,unfurnished,120.0,3,Wakad,2,False,True,False,False,True,False,False,True
+42,780,Ready to Move,unfurnished,78.0,2,Chinchwad,2,True,False,False,False,True,False,False,True
+43,726,Ready to Move,unfurnished,95.0,2,Wakad,2,True,False,False,False,True,False,False,True
+44,865,Ready to Move,unfurnished,108.0,2,Baner,2,True,False,False,False,True,False,False,True
+45,850,Under Construction,semi-furnished,99.0,2,Kharadi,2,False,True,False,True,False,False,True,False
+46,1524,Ready to Move,unfurnished,215.0,4,Aundh,2,True,False,False,False,True,False,False,True
+47,680,Ready to Move,unfurnished,64.0,2,Ravet,2,True,False,False,False,True,False,False,True
+48,760,Ready to Move,furnished,120.0,2,Baner,2,True,False,True,False,False,True,False,False
+49,700,Ready to Move,furnished,140.0,2,Viman Nagar,2,True,False,True,False,False,True,False,False
+50,1246,Under Construction,semi-furnished,204.0,3,Balewadi,3,False,True,False,True,False,False,True,False
+51,1150,Ready to Move,unfurnished,175.0,3,Baner,2,True,False,False,False,True,False,False,True
+52,1001,Under Construction,semi-furnished,102.0,3,other,2,False,True,False,True,False,False,True,False
+53,725,Under Construction,unfurnished,53.5,2,Hinjewadi,1,False,True,False,False,True,False,False,True
+54,881,Under Construction,unfurnished,110.00000000000001,2,Balewadi,2,False,True,False,False,True,False,False,True
+55,2430,Ready to Move,furnished,500.0,4,Baner,3,True,False,True,False,False,True,False,False
+56,846,Ready to Move,unfurnished,90.0,2,Hadapsar,2,True,False,False,False,True,False,False,True
+57,1250,Ready to Move,unfurnished,200.0,3,Baner,3,True,False,False,False,True,False,False,True
+58,634,Ready to Move,semi-furnished,66.0,2,Wakad,2,True,False,False,True,False,False,True,False
+59,835,Under Construction,unfurnished,106.0,2,Balewadi,2,False,True,False,False,True,False,False,True
+60,1855,Under Construction,unfurnished,175.0,3,Ravet,2,False,True,False,False,True,False,False,True
+61,950,Ready to Move,unfurnished,73.0,2,Kondhwa,2,True,False,False,False,True,False,False,True
+62,1650,Ready to Move,semi-furnished,248.0,3,Kharadi,2,True,False,False,True,False,False,True,False
+63,1040,Ready to Move,unfurnished,200.0,3,Kothrud,3,True,False,False,False,True,False,False,True
+64,2200,Ready to Move,semi-furnished,550.0,4,Baner,2,True,False,False,True,False,False,True,False
+65,1166,Under Construction,unfurnished,143.0,3,Baner,2,False,True,False,False,True,False,False,True
+66,991,Under Construction,unfurnished,136.0,3,Kharadi,3,False,True,False,False,True,False,False,True
+67,751,Under Construction,unfurnished,68.0,2,other,2,False,True,False,False,True,False,False,True
+68,1225,Ready to Move,semi-furnished,140.0,3,Baner,2,True,False,False,True,False,False,True,False
+69,980,Under Construction,unfurnished,106.0,3,Kharadi,2,False,True,False,False,True,False,False,True
+70,1700,Under Construction,unfurnished,195.0,3,Kondhwa,2,False,True,False,False,True,False,False,True
+71,1070,Under Construction,unfurnished,123.0,3,Hadapsar,2,False,True,False,False,True,False,False,True
+72,890,Under Construction,unfurnished,145.0,2,Balewadi,2,False,True,False,False,True,False,False,True
+73,1156,Under Construction,unfurnished,160.0,3,Chinchwad,3,False,True,False,False,True,False,False,True
+74,1246,Under Construction,unfurnished,171.0,3,Kharadi,2,False,True,False,False,True,False,False,True
+75,1015,Under Construction,unfurnished,150.0,3,Baner,2,False,True,False,False,True,False,False,True
+76,1345,Ready to Move,semi-furnished,245.00000000000003,3,Baner,2,True,False,False,True,False,False,True,False
+77,1167,Ready to Move,unfurnished,150.0,3,Balewadi,3,True,False,False,False,True,False,False,True
+78,1129,Under Construction,unfurnished,195.0,3,Aundh,2,False,True,False,False,True,False,False,True
+79,1446,Ready to Move,furnished,200.0,3,Baner,3,True,False,True,False,False,True,False,False
+80,750,Ready to Move,semi-furnished,51.0,2,Hadapsar,1,True,False,False,True,False,False,True,False
+81,803,Ready to Move,unfurnished,95.0,2,Chinchwad,2,True,False,False,False,True,False,False,True
+82,850,Ready to Move,unfurnished,83.0,2,Kharadi,2,True,False,False,False,True,False,False,True
+83,1160,Ready to Move,semi-furnished,162.0,3,Baner,3,True,False,False,True,False,False,True,False
+84,1405,Under Construction,semi-furnished,239.0,3,Balewadi,3,False,True,False,True,False,False,True,False
+85,1800,Ready to Move,unfurnished,290.0,3,Viman Nagar,2,True,False,False,False,True,False,False,True
+86,1180,Ready to Move,unfurnished,175.0,3,Viman Nagar,3,True,False,False,False,True,False,False,True
+87,736,Ready to Move,unfurnished,100.0,2,Ravet,2,True,False,False,False,True,False,False,True
+88,690,Ready to Move,semi-furnished,70.0,2,Lohegaon,2,True,False,False,True,False,False,True,False
+89,536,Ready to Move,semi-furnished,60.0,1,Pimple Saudagar,2,True,False,False,True,False,False,True,False
+90,788,Ready to Move,unfurnished,75.0,2,Kondhwa,1,True,False,False,False,True,False,False,True
+91,1202,Ready to Move,unfurnished,139.0,3,Baner,2,True,False,False,False,True,False,False,True
+92,1100,Ready to Move,unfurnished,175.0,3,Kharadi,3,True,False,False,False,True,False,False,True
+93,803,Ready to Move,unfurnished,125.0,2,Balewadi,3,True,False,False,False,True,False,False,True
+94,722,Ready to Move,unfurnished,70.0,2,Chinchwad,1,True,False,False,False,True,False,False,True
+95,765,Ready to Move,unfurnished,73.0,2,Chinchwad,1,True,False,False,False,True,False,False,True
+96,532,Ready to Move,unfurnished,74.0,1,Ravet,2,True,False,False,False,True,False,False,True
+97,636,Ready to Move,semi-furnished,65.0,2,Ravet,1,True,False,False,True,False,False,True,False
+98,636,Ready to Move,semi-furnished,72.5,2,Ravet,1,True,False,False,True,False,False,True,False
+99,861,Ready to Move,semi-furnished,75.0,2,Kondhwa,1,True,False,False,True,False,False,True,False
+100,780,Ready to Move,semi-furnished,114.99999999999999,2,Baner,2,True,False,False,True,False,False,True,False
+101,1008,Under Construction,unfurnished,144.0,3,Kharadi,2,False,True,False,False,True,False,False,True
+102,1637,Ready to Move,furnished,178.0,3,Wakad,3,True,False,True,False,False,True,False,False
+103,890,Under Construction,unfurnished,103.0,2,Balewadi,2,False,True,False,False,True,False,False,True
+104,625,Ready to Move,unfurnished,46.0,2,Chinchwad,1,True,False,False,False,True,False,False,True
+105,1040,Ready to Move,unfurnished,88.0,2,Kharadi,2,True,False,False,False,True,False,False,True
+106,3200,Ready to Move,unfurnished,340.0,4,Kharadi,2,True,False,False,False,True,False,False,True
+107,630,Ready to Move,semi-furnished,75.0,2,Wakad,2,True,False,False,True,False,False,True,False
+108,3076,Ready to Move,unfurnished,470.0,4,Kharadi,2,True,False,False,False,True,False,False,True
+109,1200,Ready to Move,unfurnished,117.0,2,Kharadi,2,True,False,False,False,True,False,False,True
+110,1950,Ready to Move,unfurnished,310.0,3,Hadapsar,2,True,False,False,False,True,False,False,True
+111,1900,Ready to Move,furnished,350.0,3,Viman Nagar,3,True,False,True,False,False,True,False,False
+112,1150,Ready to Move,unfurnished,140.0,3,Baner,3,True,False,False,False,True,False,False,True
+113,1256,Ready to Move,unfurnished,85.0,2,Wakad,2,True,False,False,False,True,False,False,True
+114,1550,Ready to Move,unfurnished,237.0,4,Baner,3,True,False,False,False,True,False,False,True
+115,1150,Ready to Move,semi-furnished,175.0,3,Wakad,3,True,False,False,True,False,False,True,False
+116,705,Ready to Move,semi-furnished,103.0,2,Kharadi,2,True,False,False,True,False,False,True,False
+117,1006,Ready to Move,unfurnished,180.0,2,Hadapsar,3,True,False,False,False,True,False,False,True
+118,1181,Under Construction,unfurnished,163.0,3,Hadapsar,2,False,True,False,False,True,False,False,True
+119,804,Under Construction,unfurnished,90.1,2,other,2,False,True,False,False,True,False,False,True
+120,1209,Ready to Move,furnished,145.0,3,Chinchwad,2,True,False,True,False,False,True,False,False
+121,1507,Ready to Move,unfurnished,268.0,3,Kharadi,2,True,False,False,False,True,False,False,True
+122,1050,Ready to Move,semi-furnished,138.0,3,Wakad,2,True,False,False,True,False,False,True,False
+123,850,Ready to Move,unfurnished,83.0,2,Kharadi,2,True,False,False,False,True,False,False,True
+124,900,Ready to Move,unfurnished,82.0,3,Ravet,2,True,False,False,False,True,False,False,True
+125,1700,Ready to Move,semi-furnished,348.0,3,Kharadi,3,True,False,False,True,False,False,True,False
+126,1765,Ready to Move,furnished,465.00000000000006,4,Pimple Nilakh,2,True,False,True,False,False,True,False,False
+127,900,Ready to Move,semi-furnished,120.0,2,Balewadi,2,True,False,False,True,False,False,True,False
+128,1100,Ready to Move,unfurnished,134.0,3,Wakad,2,True,False,False,False,True,False,False,True
+129,1250,Ready to Move,semi-furnished,185.0,3,Kharadi,3,True,False,False,True,False,False,True,False
+130,1570,Ready to Move,unfurnished,149.0,4,Balewadi,2,True,False,False,False,True,False,False,True
+131,1900,Ready to Move,unfurnished,300.0,4,Baner,3,True,False,False,False,True,False,False,True
+132,1507,Ready to Move,unfurnished,268.0,3,Kharadi,3,True,False,False,False,True,False,False,True
+133,1050,Ready to Move,semi-furnished,138.0,3,Wakad,3,True,False,False,True,False,False,True,False
+134,900,Ready to Move,unfurnished,82.0,3,Ravet,2,True,False,False,False,True,False,False,True
+135,1765,Ready to Move,furnished,465.00000000000006,4,Pimple Nilakh,3,True,False,True,False,False,True,False,False
+136,900,Ready to Move,semi-furnished,120.0,2,Balewadi,2,True,False,False,True,False,False,True,False
+137,1570,Ready to Move,unfurnished,149.0,4,Balewadi,2,True,False,False,False,True,False,False,True
+138,1900,Ready to Move,unfurnished,300.0,4,Baner,2,True,False,False,False,True,False,False,True
+139,1500,Ready to Move,semi-furnished,97.0,3,Kondhwa,2,True,False,False,True,False,False,True,False
+140,2650,Ready to Move,unfurnished,520.0,4,Kharadi,3,True,False,False,False,True,False,False,True
+141,750,Ready to Move,semi-furnished,112.00000000000001,2,Baner,2,True,False,False,True,False,False,True,False
+142,1355,Ready to Move,unfurnished,185.0,3,Pimple Gurav,3,True,False,False,False,True,False,False,True
+143,876,Ready to Move,unfurnished,105.0,2,Balewadi,2,True,False,False,False,True,False,False,True
+144,1305,Ready to Move,unfurnished,210.0,3,Baner,3,True,False,False,False,True,False,False,True
+145,1700,Ready to Move,unfurnished,360.0,3,Kharadi,2,True,False,False,False,True,False,False,True
+146,855,Under Construction,semi-furnished,84.5,2,Kharadi,2,False,True,False,True,False,False,True,False
+147,1950,Ready to Move,semi-furnished,229.99999999999997,4,Chinchwad,2,True,False,False,True,False,False,True,False
+148,2106,Ready to Move,unfurnished,300.0,3,other,2,True,False,False,False,True,False,False,True
+149,835,Ready to Move,unfurnished,124.0,2,Kothrud,3,True,False,False,False,True,False,False,True
+150,779,Ready to Move,unfurnished,67.0,2,Kondhwa,1,True,False,False,False,True,False,False,True
+151,826,Ready to Move,semi-furnished,125.0,2,Kharadi,2,True,False,False,True,False,False,True,False
+152,690,Ready to Move,furnished,47.0,2,Hadapsar,1,True,False,True,False,False,True,False,False
+153,954,Ready to Move,furnished,145.0,2,Kharadi,3,True,False,True,False,False,True,False,False
+154,2650,Ready to Move,unfurnished,520.0,4,Kharadi,3,True,False,False,False,True,False,False,True
+155,750,Ready to Move,semi-furnished,112.00000000000001,2,Baner,2,True,False,False,True,False,False,True,False
+156,1355,Ready to Move,unfurnished,185.0,3,Pimple Gurav,3,True,False,False,False,True,False,False,True
+157,876,Ready to Move,unfurnished,105.0,2,Balewadi,2,True,False,False,False,True,False,False,True
+158,1700,Ready to Move,unfurnished,360.0,3,Kharadi,2,True,False,False,False,True,False,False,True
+159,2106,Ready to Move,unfurnished,300.0,3,other,3,True,False,False,False,True,False,False,True
+160,835,Ready to Move,unfurnished,124.0,2,Kothrud,2,True,False,False,False,True,False,False,True
+161,779,Ready to Move,unfurnished,67.0,2,Kondhwa,2,True,False,False,False,True,False,False,True
+162,826,Ready to Move,semi-furnished,125.0,2,Kharadi,2,True,False,False,True,False,False,True,False
+163,690,Ready to Move,furnished,47.0,2,Hadapsar,1,True,False,True,False,False,True,False,False
+164,954,Ready to Move,furnished,145.0,2,Kharadi,3,True,False,True,False,False,True,False,False
+165,1220,Ready to Move,semi-furnished,151.0,3,Kharadi,3,True,False,False,True,False,False,True,False
+166,1650,Ready to Move,semi-furnished,325.0,3,Balewadi,3,True,False,False,True,False,False,True,False
+167,907,Ready to Move,unfurnished,145.0,3,Kharadi,2,True,False,False,False,True,False,False,True
+168,1095,Ready to Move,unfurnished,125.0,2,Baner,3,True,False,False,False,True,False,False,True
+169,1613,Under Construction,unfurnished,261.0,4,Baner,2,False,True,False,False,True,False,False,True
+170,850,Ready to Move,semi-furnished,125.0,2,Kothrud,2,True,False,False,True,False,False,True,False
+171,1718,Ready to Move,unfurnished,390.0,3,Baner,2,True,False,False,False,True,False,False,True
+172,1350,Ready to Move,semi-furnished,135.0,3,Wakad,3,True,False,False,True,False,False,True,False
+173,2150,Ready to Move,semi-furnished,330.0,3,Kharadi,3,True,False,False,True,False,False,True,False
+174,723,Ready to Move,unfurnished,68.3,2,Hinjewadi,2,True,False,False,False,True,False,False,True
+175,2909,Ready to Move,furnished,290.0,3,Kharadi,3,True,False,True,False,False,True,False,False
+176,1228,Ready to Move,semi-furnished,211.0,3,Balewadi,3,True,False,False,True,False,False,True,False
+177,907,Ready to Move,unfurnished,145.0,3,Kharadi,2,True,False,False,False,True,False,False,True
+178,1613,Under Construction,unfurnished,261.0,4,Baner,3,False,True,False,False,True,False,False,True
+179,850,Ready to Move,semi-furnished,125.0,2,Kothrud,2,True,False,False,True,False,False,True,False
+180,1350,Ready to Move,semi-furnished,135.0,3,Wakad,3,True,False,False,True,False,False,True,False
+181,2150,Ready to Move,semi-furnished,330.0,3,Kharadi,3,True,False,False,True,False,False,True,False
+182,2909,Ready to Move,furnished,290.0,3,Kharadi,3,True,False,True,False,False,True,False,False
+183,1100,Ready to Move,furnished,190.0,3,Kharadi,2,True,False,True,False,False,True,False,False
+184,1354,Ready to Move,semi-furnished,138.0,3,Wakad,3,True,False,False,True,False,False,True,False
+185,450,Ready to Move,furnished,45.0,1,Kondhwa,1,True,False,True,False,False,True,False,False
+186,820,Under Construction,unfurnished,73.0,2,Lohegaon,2,False,True,False,False,True,False,False,True
+187,1900,Ready to Move,unfurnished,254.99999999999997,4,Wakad,3,True,False,False,False,True,False,False,True
+188,1167,Ready to Move,unfurnished,170.0,3,Baner,2,True,False,False,False,True,False,False,True
+189,2200,Ready to Move,semi-furnished,375.0,3,Kharadi,2,True,False,False,True,False,False,True,False
+190,820,Ready to Move,unfurnished,85.0,2,Kharadi,2,True,False,False,False,True,False,False,True
+191,1806,Ready to Move,furnished,204.99999999999997,3,Baner,3,True,False,True,False,False,True,False,False
+192,2000,Ready to Move,semi-furnished,270.0,3,Kharadi,2,True,False,False,True,False,False,True,False
+193,1082,Under Construction,unfurnished,124.0,3,Hadapsar,3,False,True,False,False,True,False,False,True
+194,955,Under Construction,unfurnished,99.3,3,Hinjewadi,2,False,True,False,False,True,False,False,True
+195,1080,Ready to Move,unfurnished,98.3,3,Ravet,2,True,False,False,False,True,False,False,True
+196,820,Under Construction,unfurnished,73.0,2,Lohegaon,2,False,True,False,False,True,False,False,True
+197,1167,Ready to Move,unfurnished,170.0,3,Baner,3,True,False,False,False,True,False,False,True
+198,820,Ready to Move,unfurnished,85.0,2,Kharadi,2,True,False,False,False,True,False,False,True
+199,1806,Ready to Move,furnished,204.99999999999997,3,Baner,3,True,False,True,False,False,True,False,False
+200,1082,Under Construction,unfurnished,124.0,3,Hadapsar,2,False,True,False,False,True,False,False,True
+201,1080,Ready to Move,unfurnished,98.3,3,Ravet,2,True,False,False,False,True,False,False,True
+202,1232,Ready to Move,unfurnished,195.0,3,Hadapsar,2,True,False,False,False,True,False,False,True
+203,1100,Ready to Move,semi-furnished,72.0,2,Kondhwa,1,True,False,False,True,False,False,True,False
+204,1250,Ready to Move,unfurnished,179.0,3,Kharadi,2,True,False,False,False,True,False,False,True
+205,2275,Ready to Move,unfurnished,470.0,4,Aundh,2,True,False,False,False,True,False,False,True
+206,1211,Ready to Move,semi-furnished,175.0,3,Kharadi,3,True,False,False,True,False,False,True,False
+207,680,Ready to Move,unfurnished,73.0,2,Hinjewadi,2,True,False,False,False,True,False,False,True
+208,1040,Under Construction,unfurnished,127.0,3,other,3,False,True,False,False,True,False,False,True
+209,850,Under Construction,unfurnished,125.0,2,Hadapsar,3,False,True,False,False,True,False,False,True
+210,1037,Ready to Move,semi-furnished,106.0,2,Kharadi,2,True,False,False,True,False,False,True,False
+211,1300,Ready to Move,semi-furnished,305.0,3,Kharadi,2,True,False,False,True,False,False,True,False
+212,2600,Ready to Move,furnished,550.0,6,Baner,3,True,False,True,False,False,True,False,False
+213,1550,Ready to Move,furnished,152.0,3,Wakad,2,True,False,True,False,False,True,False,False
+214,1200,Ready to Move,unfurnished,126.0,3,Wakad,2,True,False,False,False,True,False,False,True
+215,2275,Ready to Move,unfurnished,470.0,4,Aundh,2,True,False,False,False,True,False,False,True
+216,680,Ready to Move,unfurnished,73.0,2,Hinjewadi,1,True,False,False,False,True,False,False,True
+217,1040,Under Construction,unfurnished,127.0,3,other,2,False,True,False,False,True,False,False,True
+218,1037,Ready to Move,semi-furnished,106.0,2,Kharadi,2,True,False,False,True,False,False,True,False
+219,1300,Ready to Move,semi-furnished,305.0,3,Kharadi,2,True,False,False,True,False,False,True,False
+220,2600,Ready to Move,furnished,550.0,6,Baner,3,True,False,True,False,False,True,False,False
+221,1200,Ready to Move,unfurnished,126.0,3,Wakad,3,True,False,False,False,True,False,False,True
+222,2200,Ready to Move,unfurnished,350.0,3,Balewadi,3,True,False,False,False,True,False,False,True
+223,1167,Ready to Move,unfurnished,150.0,3,Kharadi,2,True,False,False,False,True,False,False,True
+224,1800,Ready to Move,unfurnished,350.0,4,Balewadi,2,True,False,False,False,True,False,False,True
+225,958,Under Construction,unfurnished,70.0,3,Chinchwad,1,False,True,False,False,True,False,False,True
+226,1115,Under Construction,unfurnished,118.0,3,Kharadi,2,False,True,False,False,True,False,False,True
+227,1920,Ready to Move,semi-furnished,409.99999999999994,4,Pimple Nilakh,2,True,False,False,True,False,False,True,False
+228,2700,Ready to Move,furnished,650.0,4,Baner,2,True,False,True,False,False,True,False,False
+229,870,Ready to Move,semi-furnished,129.0,3,Kharadi,3,True,False,False,True,False,False,True,False
+230,970,Ready to Move,semi-furnished,64.0,3,Hadapsar,2,True,False,False,True,False,False,True,False
+231,1691,Ready to Move,unfurnished,275.0,3,Kharadi,2,True,False,False,False,True,False,False,True
+232,1900,Ready to Move,unfurnished,360.0,4,Aundh,3,True,False,False,False,True,False,False,True
+233,1167,Ready to Move,unfurnished,150.0,3,Kharadi,3,True,False,False,False,True,False,False,True
+234,1800,Ready to Move,unfurnished,350.0,4,Balewadi,2,True,False,False,False,True,False,False,True
+235,958,Under Construction,unfurnished,70.0,3,Chinchwad,1,False,True,False,False,True,False,False,True
+236,1115,Under Construction,unfurnished,118.0,3,Kharadi,2,False,True,False,False,True,False,False,True
+237,1920,Ready to Move,semi-furnished,409.99999999999994,4,Pimple Nilakh,2,True,False,False,True,False,False,True,False
+238,2700,Ready to Move,furnished,650.0,4,Baner,3,True,False,True,False,False,True,False,False
+239,870,Ready to Move,semi-furnished,129.0,3,Kharadi,2,True,False,False,True,False,False,True,False
+240,970,Ready to Move,semi-furnished,64.0,3,Hadapsar,1,True,False,False,True,False,False,True,False
+241,800,Ready to Move,furnished,102.0,2,Hadapsar,2,True,False,True,False,False,True,False,False
+242,950,Ready to Move,semi-furnished,110.00000000000001,3,Kharadi,2,True,False,False,True,False,False,True,False
+243,1180,Ready to Move,semi-furnished,151.0,3,Viman Nagar,3,True,False,False,True,False,False,True,False
+244,795,Ready to Move,unfurnished,87.1,2,Hinjewadi,2,True,False,False,False,True,False,False,True
+245,750,Ready to Move,unfurnished,58.0,2,Lohegaon,2,True,False,False,False,True,False,False,True
+246,780,Ready to Move,semi-furnished,70.0,2,Ravet,1,True,False,False,True,False,False,True,False
+247,1000,Ready to Move,unfurnished,146.0,2,Hadapsar,3,True,False,False,False,True,False,False,True
+248,901,Ready to Move,furnished,90.0,2,Pimple Saudagar,2,True,False,True,False,False,True,False,False
+249,650,Ready to Move,unfurnished,44.0,2,Lohegaon,1,True,False,False,False,True,False,False,True
+250,1306,Under Construction,unfurnished,174.0,3,Balewadi,3,False,True,False,False,True,False,False,True
+251,890,Under Construction,unfurnished,120.0,2,Balewadi,2,False,True,False,False,True,False,False,True
+252,1306,Under Construction,unfurnished,170.0,3,Balewadi,2,False,True,False,False,True,False,False,True
+253,890,Ready to Move,unfurnished,135.0,2,Baner,3,True,False,False,False,True,False,False,True
+254,1350,Ready to Move,unfurnished,150.0,3,Baner,3,True,False,False,False,True,False,False,True
+255,1190,Ready to Move,furnished,124.0,2,Baner,3,True,False,True,False,False,True,False,False
+256,1250,Ready to Move,furnished,160.0,2,Viman Nagar,3,True,False,True,False,False,True,False,False
+257,950,Ready to Move,semi-furnished,110.00000000000001,3,Kharadi,2,True,False,False,True,False,False,True,False
+258,750,Ready to Move,unfurnished,58.0,2,Lohegaon,1,True,False,False,False,True,False,False,True
+259,780,Ready to Move,semi-furnished,70.0,2,Ravet,2,True,False,False,True,False,False,True,False
+260,1000,Ready to Move,unfurnished,146.0,2,Hadapsar,2,True,False,False,False,True,False,False,True
+261,901,Ready to Move,furnished,90.0,2,Pimple Saudagar,2,True,False,True,False,False,True,False,False
+262,1306,Under Construction,unfurnished,174.0,3,Balewadi,3,False,True,False,False,True,False,False,True
+263,890,Under Construction,unfurnished,120.0,2,Balewadi,2,False,True,False,False,True,False,False,True
+264,1350,Ready to Move,unfurnished,150.0,3,Baner,2,True,False,False,False,True,False,False,True
+265,1190,Ready to Move,furnished,124.0,2,Baner,2,True,False,True,False,False,True,False,False
+266,669,Ready to Move,semi-furnished,32.0,1,Hadapsar,1,True,False,False,True,False,False,True,False
+267,1420,Ready to Move,semi-furnished,229.99999999999997,3,Hadapsar,2,True,False,False,True,False,False,True,False
+268,936,Ready to Move,furnished,100.0,3,Hadapsar,2,True,False,True,False,False,True,False,False
+269,1090,Ready to Move,semi-furnished,165.0,2,Kharadi,2,True,False,False,True,False,False,True,False
+270,1200,Ready to Move,semi-furnished,166.0,2,Viman Nagar,2,True,False,False,True,False,False,True,False
+271,1090,Ready to Move,semi-furnished,125.0,3,Kharadi,3,True,False,False,True,False,False,True,False
+272,780,Ready to Move,unfurnished,80.0,2,Wakad,2,True,False,False,False,True,False,False,True
+273,812,Ready to Move,unfurnished,84.9,2,Ravet,2,True,False,False,False,True,False,False,True
+274,1700,Ready to Move,furnished,365.0,3,Baner,2,True,False,True,False,False,True,False,False
+275,900,Ready to Move,furnished,114.99999999999999,2,Wakad,2,True,False,True,False,False,True,False,False
+276,818,Ready to Move,unfurnished,97.0,2,Baner,2,True,False,False,False,True,False,False,True
+277,535,Ready to Move,unfurnished,83.0,1,Viman Nagar,2,True,False,False,False,True,False,False,True
+278,860,Ready to Move,semi-furnished,90.0,2,Baner,2,True,False,False,True,False,False,True,False
+279,900,Ready to Move,furnished,140.0,2,Kothrud,2,True,False,True,False,False,True,False,False
+280,1055,Ready to Move,semi-furnished,162.0,3,Wakad,3,True,False,False,True,False,False,True,False
+281,750,Ready to Move,unfurnished,85.0,1,Viman Nagar,2,True,False,False,False,True,False,False,True
+282,400,Ready to Move,unfurnished,72.0,1,Hadapsar,2,True,False,False,False,True,False,False,True
+283,1150,Ready to Move,semi-furnished,170.0,3,Hinjewadi,2,True,False,False,True,False,False,True,False
+284,990,Ready to Move,semi-furnished,114.99999999999999,2,Kharadi,2,True,False,False,True,False,False,True,False
+285,679,Ready to Move,unfurnished,88.0,2,Kharadi,2,True,False,False,False,True,False,False,True
+286,1090,Ready to Move,semi-furnished,165.0,2,Kharadi,2,True,False,False,True,False,False,True,False
+287,1200,Ready to Move,semi-furnished,166.0,2,Viman Nagar,2,True,False,False,True,False,False,True,False
+288,780,Ready to Move,unfurnished,80.0,2,Wakad,2,True,False,False,False,True,False,False,True
+289,812,Ready to Move,unfurnished,84.9,2,Ravet,2,True,False,False,False,True,False,False,True
+290,1700,Ready to Move,furnished,365.0,3,Baner,2,True,False,True,False,False,True,False,False
+291,900,Ready to Move,furnished,114.99999999999999,2,Wakad,2,True,False,True,False,False,True,False,False
+292,860,Ready to Move,semi-furnished,90.0,2,Baner,2,True,False,False,True,False,False,True,False
+293,900,Ready to Move,furnished,140.0,2,Kothrud,3,True,False,True,False,False,True,False,False
+294,820,Ready to Move,unfurnished,114.99999999999999,2,Kharadi,2,True,False,False,False,True,False,False,True
+295,785,Ready to Move,semi-furnished,137.0,2,Baner,3,True,False,False,True,False,False,True,False
+296,937,Ready to Move,semi-furnished,98.0,3,other,2,True,False,False,True,False,False,True,False
+297,729,Ready to Move,furnished,69.5,2,Chinchwad,1,True,False,True,False,False,True,False,False
+298,660,Ready to Move,furnished,75.0,2,Kondhwa,1,True,False,True,False,False,True,False,False
+299,781,Ready to Move,unfurnished,75.0,2,Chinchwad,2,True,False,False,False,True,False,False,True
+300,430,Ready to Move,semi-furnished,28.0,1,Lohegaon,1,True,False,False,True,False,False,True,False
+301,767,Ready to Move,semi-furnished,85.0,2,Ravet,2,True,False,False,True,False,False,True,False
+302,740,Ready to Move,semi-furnished,85.0,2,Wakad,2,True,False,False,True,False,False,True,False
+303,1050,Ready to Move,furnished,185.0,2,Baner,3,True,False,True,False,False,True,False,False
+304,436,Ready to Move,furnished,57.0,1,Wakad,2,True,False,True,False,False,True,False,False
+305,516,Ready to Move,unfurnished,32.0,1,Chinchwad,1,True,False,False,False,True,False,False,True
+306,701,Ready to Move,unfurnished,120.0,2,Kharadi,2,True,False,False,False,True,False,False,True
+307,720,Ready to Move,semi-furnished,80.0,2,Ravet,2,True,False,False,True,False,False,True,False
+308,900,Ready to Move,furnished,102.0,2,Kondhwa,2,True,False,True,False,False,True,False,False
+309,600,Ready to Move,semi-furnished,44.0,1,Chinchwad,1,True,False,False,True,False,False,True,False
+310,886,Ready to Move,furnished,125.0,2,Chinchwad,2,True,False,True,False,False,True,False,False
+311,1114,Ready to Move,unfurnished,165.0,3,Pimple Nilakh,3,True,False,False,False,True,False,False,True
+312,788,Ready to Move,semi-furnished,90.0,2,Hinjewadi,2,True,False,False,True,False,False,True,False
+313,620,Ready to Move,unfurnished,95.0,2,Hadapsar,2,True,False,False,False,True,False,False,True
+314,789,Ready to Move,unfurnished,99.0,2,Balewadi,2,True,False,False,False,True,False,False,True
+315,1900,Ready to Move,furnished,300.0,3,Wakad,3,True,False,True,False,False,True,False,False
+316,716,Ready to Move,unfurnished,82.0,2,Chinchwad,2,True,False,False,False,True,False,False,True
+317,896,Ready to Move,furnished,110.00000000000001,2,Pimple Gurav,2,True,False,True,False,False,True,False,False
+318,630,Ready to Move,unfurnished,55.0,2,Kondhwa,2,True,False,False,False,True,False,False,True
+319,507,Ready to Move,semi-furnished,59.0,1,Wakad,1,True,False,False,True,False,False,True,False
+320,789,Ready to Move,unfurnished,99.0,2,Balewadi,2,True,False,False,False,True,False,False,True
+321,896,Ready to Move,furnished,110.00000000000001,2,Pimple Gurav,2,True,False,True,False,False,True,False,False
+322,630,Ready to Move,unfurnished,55.0,2,Kondhwa,1,True,False,False,False,True,False,False,True
+323,507,Ready to Move,semi-furnished,59.0,1,Wakad,2,True,False,False,True,False,False,True,False
+324,335,Ready to Move,semi-furnished,42.0,2,Lohegaon,1,True,False,False,True,False,False,True,False
+325,470,Ready to Move,semi-furnished,45.0,1,Chinchwad,1,True,False,False,True,False,False,True,False
+326,836,Ready to Move,unfurnished,65.0,2,Chinchwad,2,True,False,False,False,True,False,False,True
+327,434,Ready to Move,semi-furnished,65.0,1,Baner,2,True,False,False,True,False,False,True,False
+328,1230,Ready to Move,furnished,220.00000000000003,3,Pimple Saudagar,2,True,False,True,False,False,True,False,False
+329,832,Ready to Move,unfurnished,140.0,2,Balewadi,2,True,False,False,False,True,False,False,True
+330,1030,Ready to Move,unfurnished,130.0,3,Wakad,2,True,False,False,False,True,False,False,True
+331,1200,Ready to Move,unfurnished,180.0,3,Balewadi,3,True,False,False,False,True,False,False,True
+332,800,Ready to Move,furnished,92.0,2,Pimple Saudagar,2,True,False,True,False,False,True,False,False
+333,721,Ready to Move,unfurnished,114.99999999999999,3,Hadapsar,2,True,False,False,False,True,False,False,True
+334,934,Ready to Move,semi-furnished,110.00000000000001,2,Baner,2,True,False,False,True,False,False,True,False
+335,836,Ready to Move,semi-furnished,55.0,2,Chinchwad,1,True,False,False,True,False,False,True,False
+336,470,Ready to Move,semi-furnished,45.0,1,Chinchwad,1,True,False,False,True,False,False,True,False
+337,434,Ready to Move,semi-furnished,65.0,1,Baner,2,True,False,False,True,False,False,True,False
+338,832,Ready to Move,unfurnished,140.0,2,Balewadi,2,True,False,False,False,True,False,False,True
+339,1030,Ready to Move,unfurnished,130.0,3,Wakad,3,True,False,False,False,True,False,False,True
+340,1200,Ready to Move,unfurnished,180.0,3,Balewadi,2,True,False,False,False,True,False,False,True
+341,800,Ready to Move,furnished,92.0,2,Pimple Saudagar,2,True,False,True,False,False,True,False,False
+342,934,Ready to Move,semi-furnished,110.00000000000001,2,Baner,2,True,False,False,True,False,False,True,False
+343,995,Ready to Move,furnished,127.0,2,Balewadi,3,True,False,True,False,False,True,False,False
+344,636,Ready to Move,semi-furnished,80.0,2,Wakad,1,True,False,False,True,False,False,True,False
+345,1350,Ready to Move,unfurnished,143.0,3,Wakad,2,True,False,False,False,True,False,False,True
+346,823,Ready to Move,unfurnished,127.0,2,Balewadi,3,True,False,False,False,True,False,False,True
+347,1060,Ready to Move,semi-furnished,112.00000000000001,3,Hinjewadi,2,True,False,False,True,False,False,True,False
+348,1151,Ready to Move,semi-furnished,95.0,2,Hinjewadi,2,True,False,False,True,False,False,True,False
+349,785,Ready to Move,unfurnished,114.99999999999999,2,Kharadi,2,True,False,False,False,True,False,False,True
+350,807,Ready to Move,semi-furnished,96.0,2,Hadapsar,2,True,False,False,True,False,False,True,False
+351,1562,Ready to Move,semi-furnished,140.0,3,Chinchwad,2,True,False,False,True,False,False,True,False
+352,1350,Ready to Move,unfurnished,143.0,3,Wakad,2,True,False,False,False,True,False,False,True
+353,823,Ready to Move,unfurnished,127.0,2,Balewadi,3,True,False,False,False,True,False,False,True
+354,1060,Ready to Move,semi-furnished,112.00000000000001,3,Hinjewadi,2,True,False,False,True,False,False,True,False
+355,1151,Ready to Move,semi-furnished,95.0,2,Hinjewadi,2,True,False,False,True,False,False,True,False
+356,785,Ready to Move,unfurnished,114.99999999999999,2,Kharadi,2,True,False,False,False,True,False,False,True
+357,1562,Ready to Move,semi-furnished,140.0,3,Chinchwad,2,True,False,False,True,False,False,True,False
+358,968,Ready to Move,semi-furnished,100.0,2,Wakad,2,True,False,False,True,False,False,True,False
+359,1062,Ready to Move,semi-furnished,110.00000000000001,2,Baner,2,True,False,False,True,False,False,True,False
+360,1036,Ready to Move,furnished,121.0,3,Wakad,3,True,False,True,False,False,True,False,False
+361,1367,Ready to Move,unfurnished,260.0,3,Aundh,2,True,False,False,False,True,False,False,True
+362,401,Ready to Move,semi-furnished,33.0,1,Kondhwa,1,True,False,False,True,False,False,True,False
+363,780,Ready to Move,furnished,65.0,2,Hadapsar,2,True,False,True,False,False,True,False,False
+364,886,Ready to Move,furnished,85.0,2,Pimple Nilakh,2,True,False,True,False,False,True,False,False
+365,930,Ready to Move,unfurnished,149.0,3,Kothrud,2,True,False,False,False,True,False,False,True
+366,800,Ready to Move,semi-furnished,89.0,2,Baner,2,True,False,False,True,False,False,True,False
+367,615,Ready to Move,unfurnished,62.5,2,Chinchwad,2,True,False,False,False,True,False,False,True
+368,1461,Ready to Move,furnished,171.0,3,Aundh,2,True,False,True,False,False,True,False,False
+369,736,Ready to Move,semi-furnished,75.0,2,Pimple Saudagar,1,True,False,False,True,False,False,True,False
+370,1096,Ready to Move,unfurnished,81.0,3,Chinchwad,2,True,False,False,False,True,False,False,True
+371,1062,Ready to Move,semi-furnished,110.00000000000001,2,Baner,2,True,False,False,True,False,False,True,False
+372,1367,Ready to Move,unfurnished,260.0,3,Aundh,3,True,False,False,False,True,False,False,True
+373,401,Ready to Move,semi-furnished,33.0,1,Kondhwa,1,True,False,False,True,False,False,True,False
+374,780,Ready to Move,furnished,65.0,2,Hadapsar,1,True,False,True,False,False,True,False,False
+375,930,Ready to Move,unfurnished,149.0,3,Kothrud,2,True,False,False,False,True,False,False,True
+376,800,Ready to Move,semi-furnished,89.0,2,Baner,2,True,False,False,True,False,False,True,False
+377,615,Ready to Move,unfurnished,62.5,2,Chinchwad,2,True,False,False,False,True,False,False,True
+378,736,Ready to Move,semi-furnished,75.0,2,Pimple Saudagar,1,True,False,False,True,False,False,True,False
+379,1096,Ready to Move,unfurnished,81.0,3,Chinchwad,2,True,False,False,False,True,False,False,True
+380,836,Ready to Move,furnished,80.0,3,Chinchwad,2,True,False,True,False,False,True,False,False
+381,730,Ready to Move,furnished,110.00000000000001,2,Wakad,2,True,False,True,False,False,True,False,False
+382,725,Ready to Move,semi-furnished,100.0,2,Wakad,2,True,False,False,True,False,False,True,False
+383,750,Ready to Move,semi-furnished,48.0,2,Hadapsar,1,True,False,False,True,False,False,True,False
+384,896,Ready to Move,semi-furnished,91.0,2,Wakad,2,True,False,False,True,False,False,True,False
+385,536,Ready to Move,unfurnished,43.0,1,Wakad,1,True,False,False,False,True,False,False,True
+386,1237,Ready to Move,unfurnished,130.0,2,Balewadi,2,True,False,False,False,True,False,False,True
+387,1050,Ready to Move,furnished,93.0,2,Baner,2,True,False,True,False,False,True,False,False
+388,836,Ready to Move,furnished,80.0,3,Chinchwad,1,True,False,True,False,False,True,False,False
+389,730,Ready to Move,furnished,110.00000000000001,2,Wakad,2,True,False,True,False,False,True,False,False
+390,725,Ready to Move,semi-furnished,100.0,2,Wakad,2,True,False,False,True,False,False,True,False
+391,896,Ready to Move,semi-furnished,91.0,2,Wakad,2,True,False,False,True,False,False,True,False
+392,1237,Ready to Move,unfurnished,130.0,2,Balewadi,2,True,False,False,False,True,False,False,True
+393,1050,Ready to Move,furnished,93.0,2,Baner,2,True,False,True,False,False,True,False,False
+394,1900,Ready to Move,furnished,270.0,3,Baner,3,True,False,True,False,False,True,False,False
+395,834,Ready to Move,unfurnished,65.0,2,Hadapsar,1,True,False,False,False,True,False,False,True
+396,1005,Ready to Move,semi-furnished,120.0,3,Hadapsar,2,True,False,False,True,False,False,True,False
+397,550,Ready to Move,semi-furnished,42.0,2,Pimple Gurav,1,True,False,False,True,False,False,True,False
+398,860,Ready to Move,semi-furnished,95.0,2,Chinchwad,2,True,False,False,True,False,False,True,False
+399,1250,Ready to Move,semi-furnished,145.0,3,Chinchwad,3,True,False,False,True,False,False,True,False
+400,520,Ready to Move,unfurnished,37.0,2,Chinchwad,1,True,False,False,False,True,False,False,True
+401,800,Ready to Move,semi-furnished,65.0,2,Hadapsar,1,True,False,False,True,False,False,True,False
+402,1429,Ready to Move,furnished,298.0,3,Wakad,3,True,False,True,False,False,True,False,False
+403,1700,Ready to Move,furnished,365.0,4,Baner,3,True,False,True,False,False,True,False,False
+404,1133,Ready to Move,unfurnished,162.0,3,Hadapsar,2,True,False,False,False,True,False,False,True
+405,860,Ready to Move,semi-furnished,95.0,2,Chinchwad,2,True,False,False,True,False,False,True,False
+406,1250,Ready to Move,semi-furnished,145.0,3,Chinchwad,3,True,False,False,True,False,False,True,False
+407,800,Ready to Move,semi-furnished,65.0,2,Hadapsar,2,True,False,False,True,False,False,True,False
+408,1429,Ready to Move,furnished,298.0,3,Wakad,2,True,False,True,False,False,True,False,False
+409,1700,Ready to Move,furnished,365.0,4,Baner,2,True,False,True,False,False,True,False,False
+410,1134,Under Construction,unfurnished,153.0,3,Kharadi,2,False,True,False,False,True,False,False,True
+411,840,Under Construction,unfurnished,89.7,2,Ravet,2,False,True,False,False,True,False,False,True
+412,650,Ready to Move,unfurnished,64.0,1,Viman Nagar,1,True,False,False,False,True,False,False,True
+413,1305,Ready to Move,unfurnished,254.0,3,Baner,2,True,False,False,False,True,False,False,True
+414,615,Ready to Move,semi-furnished,89.0,2,Kharadi,2,True,False,False,True,False,False,True,False
+415,740,Ready to Move,unfurnished,42.0,1,Hadapsar,1,True,False,False,False,True,False,False,True
+416,400,Ready to Move,furnished,41.5,1,Kondhwa,1,True,False,True,False,False,True,False,False
+417,1134,Under Construction,unfurnished,153.0,3,Kharadi,3,False,True,False,False,True,False,False,True
+418,840,Under Construction,unfurnished,89.7,2,Ravet,2,False,True,False,False,True,False,False,True
+419,650,Ready to Move,unfurnished,64.0,1,Viman Nagar,2,True,False,False,False,True,False,False,True
+420,1305,Ready to Move,unfurnished,254.0,3,Baner,3,True,False,False,False,True,False,False,True
+421,615,Ready to Move,semi-furnished,89.0,2,Kharadi,2,True,False,False,True,False,False,True,False
+422,740,Ready to Move,unfurnished,42.0,1,Hadapsar,1,True,False,False,False,True,False,False,True
+423,400,Ready to Move,furnished,41.5,1,Kondhwa,1,True,False,True,False,False,True,False,False
+424,645,Ready to Move,semi-furnished,51.0,1,Chinchwad,1,True,False,False,True,False,False,True,False
+425,973,Under Construction,semi-furnished,150.0,3,Hinjewadi,3,False,True,False,True,False,False,True,False
+426,430,Ready to Move,semi-furnished,29.0,1,Kondhwa,1,True,False,False,True,False,False,True,False
+427,850,Ready to Move,unfurnished,142.0,3,Kharadi,2,True,False,False,False,True,False,False,True
+428,527,Ready to Move,furnished,43.0,1,Hadapsar,1,True,False,True,False,False,True,False,False
+429,655,Ready to Move,semi-furnished,40.0,1,Lohegaon,1,True,False,False,True,False,False,True,False
+430,1075,Ready to Move,unfurnished,76.5,2,Kondhwa,2,True,False,False,False,True,False,False,True
+431,500,Ready to Move,semi-furnished,35.0,1,Lohegaon,1,True,False,False,True,False,False,True,False
+432,707,Ready to Move,semi-furnished,90.0,2,Wakad,2,True,False,False,True,False,False,True,False
+433,650,Ready to Move,semi-furnished,36.0,1,Lohegaon,1,True,False,False,True,False,False,True,False
+434,392,Ready to Move,unfurnished,35.0,1,Hadapsar,1,True,False,False,False,True,False,False,True
+435,430,Ready to Move,semi-furnished,29.0,1,Kondhwa,1,True,False,False,True,False,False,True,False
+436,655,Ready to Move,semi-furnished,40.0,1,Lohegaon,1,True,False,False,True,False,False,True,False
+437,1075,Ready to Move,unfurnished,76.5,2,Kondhwa,2,True,False,False,False,True,False,False,True
+438,707,Ready to Move,semi-furnished,90.0,2,Wakad,2,True,False,False,True,False,False,True,False
+439,392,Ready to Move,unfurnished,35.0,1,Hadapsar,1,True,False,False,False,True,False,False,True
+440,1072,Ready to Move,unfurnished,130.0,2,Kothrud,2,True,False,False,False,True,False,False,True
+441,540,Ready to Move,semi-furnished,30.0,1,Hadapsar,1,True,False,False,True,False,False,True,False
+442,783,Ready to Move,unfurnished,68.0,2,Hadapsar,1,True,False,False,False,True,False,False,True
+443,780,Ready to Move,furnished,114.99999999999999,2,Kharadi,2,True,False,True,False,False,True,False,False
+444,1074,Ready to Move,unfurnished,140.0,3,Pimple Nilakh,2,True,False,False,False,True,False,False,True
+445,700,Ready to Move,furnished,44.0,2,Kondhwa,1,True,False,True,False,False,True,False,False
+446,747,Ready to Move,unfurnished,145.0,2,Kothrud,2,True,False,False,False,True,False,False,True
+447,783,Ready to Move,unfurnished,68.0,2,Hadapsar,1,True,False,False,False,True,False,False,True
+448,780,Ready to Move,furnished,114.99999999999999,2,Kharadi,2,True,False,True,False,False,True,False,False
+449,1074,Ready to Move,unfurnished,140.0,3,Pimple Nilakh,2,True,False,False,False,True,False,False,True
+450,747,Ready to Move,unfurnished,145.0,2,Kothrud,3,True,False,False,False,True,False,False,True
+451,1084,Under Construction,unfurnished,140.0,3,Baner,2,False,True,False,False,True,False,False,True
+452,456,Ready to Move,unfurnished,30.0,1,Pimple Gurav,1,True,False,False,False,True,False,False,True
+453,510,Ready to Move,unfurnished,40.0,1,Lohegaon,1,True,False,False,False,True,False,False,True
+454,950,Ready to Move,furnished,100.0,2,Kondhwa,2,True,False,True,False,False,True,False,False
+455,700,Ready to Move,semi-furnished,75.0,2,Pimple Saudagar,2,True,False,False,True,False,False,True,False
+456,1100,Ready to Move,furnished,95.0,2,Pimple Saudagar,2,True,False,True,False,False,True,False,False
+457,1175,Ready to Move,unfurnished,160.0,3,Baner,2,True,False,False,False,True,False,False,True
+458,3950,Ready to Move,furnished,425.0,4,Kharadi,3,True,False,True,False,False,True,False,False
+459,2650,Ready to Move,semi-furnished,530.0,4,Kharadi,2,True,False,False,True,False,False,True,False
+460,1225,Ready to Move,furnished,123.0,3,Hinjewadi,3,True,False,True,False,False,True,False,False
+461,1250,Ready to Move,furnished,165.0,3,Wakad,2,True,False,True,False,False,True,False,False
+462,1300,Ready to Move,unfurnished,188.0,3,Pimple Saudagar,2,True,False,False,False,True,False,False,True
+463,2000,Ready to Move,unfurnished,315.0,4,Chinchwad,3,True,False,False,False,True,False,False,True
+464,1305,Ready to Move,unfurnished,218.00000000000003,3,Baner,3,True,False,False,False,True,False,False,True
+465,510,Ready to Move,unfurnished,40.0,1,Lohegaon,1,True,False,False,False,True,False,False,True
+466,700,Ready to Move,semi-furnished,75.0,2,Pimple Saudagar,1,True,False,False,True,False,False,True,False
+467,1175,Ready to Move,unfurnished,160.0,3,Baner,2,True,False,False,False,True,False,False,True
+468,3950,Ready to Move,furnished,425.0,4,Kharadi,3,True,False,True,False,False,True,False,False
+469,2650,Ready to Move,semi-furnished,530.0,4,Kharadi,3,True,False,False,True,False,False,True,False
+470,1225,Ready to Move,furnished,123.0,3,Hinjewadi,2,True,False,True,False,False,True,False,False
+471,1250,Ready to Move,furnished,165.0,3,Wakad,3,True,False,True,False,False,True,False,False
+472,2000,Ready to Move,unfurnished,315.0,4,Chinchwad,2,True,False,False,False,True,False,False,True
+473,1189,Ready to Move,unfurnished,152.0,3,Wakad,3,True,False,False,False,True,False,False,True
+474,788,Ready to Move,unfurnished,63.0,2,Ravet,2,True,False,False,False,True,False,False,True
+475,1300,Ready to Move,semi-furnished,178.0,3,Baner,2,True,False,False,True,False,False,True,False
+476,920,Ready to Move,unfurnished,110.00000000000001,3,Pimple Saudagar,2,True,False,False,False,True,False,False,True
+477,1750,Ready to Move,semi-furnished,280.0,3,Kharadi,2,True,False,False,True,False,False,True,False
+478,1600,Ready to Move,furnished,265.0,3,Kharadi,3,True,False,True,False,False,True,False,False
+479,1010,Ready to Move,semi-furnished,135.0,3,Balewadi,3,True,False,False,True,False,False,True,False
+480,1189,Ready to Move,unfurnished,152.0,3,Wakad,2,True,False,False,False,True,False,False,True
+481,788,Ready to Move,unfurnished,63.0,2,Ravet,2,True,False,False,False,True,False,False,True
+482,1600,Ready to Move,furnished,265.0,3,Kharadi,2,True,False,True,False,False,True,False,False
+483,1574,Ready to Move,unfurnished,239.0,4,Baner,2,True,False,False,False,True,False,False,True
+484,2238,Ready to Move,unfurnished,365.0,3,Baner,3,True,False,False,False,True,False,False,True
+485,1250,Ready to Move,semi-furnished,180.0,3,Balewadi,3,True,False,False,True,False,False,True,False
+486,1534,Ready to Move,furnished,375.0,3,Baner,3,True,False,True,False,False,True,False,False
+487,1155,Ready to Move,semi-furnished,114.99999999999999,2,Kothrud,2,True,False,False,True,False,False,True,False
+488,1845,Ready to Move,unfurnished,300.0,4,Aundh,2,True,False,False,False,True,False,False,True
+489,980,Ready to Move,unfurnished,90.0,2,Viman Nagar,2,True,False,False,False,True,False,False,True
+490,1200,Ready to Move,semi-furnished,200.0,3,Balewadi,2,True,False,False,True,False,False,True,False
+491,1300,Ready to Move,semi-furnished,185.0,3,Wakad,2,True,False,False,True,False,False,True,False
+492,700,Ready to Move,semi-furnished,98.0,2,Kothrud,2,True,False,False,True,False,False,True,False
+493,2200,Ready to Move,unfurnished,400.0,4,Wakad,2,True,False,False,False,True,False,False,True
+494,490,Ready to Move,unfurnished,37.5,1,Chinchwad,1,True,False,False,False,True,False,False,True
+495,1100,Ready to Move,unfurnished,160.0,3,Balewadi,3,True,False,False,False,True,False,False,True
+496,1350,Ready to Move,unfurnished,248.0,3,Aundh,2,True,False,False,False,True,False,False,True
+497,1335,Under Construction,unfurnished,188.0,3,Aundh,1,False,True,False,False,True,False,False,True
+498,770,Ready to Move,unfurnished,125.0,2,Aundh,1,True,False,False,False,True,False,False,True
+499,956,Under Construction,semi-furnished,103.0,2,Aundh,1,False,True,False,True,False,False,True,False
+500,3500,Ready to Move,semi-furnished,869.9999999999999,4,Aundh,3,True,False,False,True,False,False,True,False
+501,1550,Under Construction,unfurnished,280.0,3,Aundh,2,False,True,False,False,True,False,False,True
+502,1446,Under Construction,unfurnished,193.0,3,Aundh,1,False,True,False,False,True,False,False,True
+503,1335,Under Construction,semi-furnished,220.00000000000003,3,Aundh,2,False,True,False,True,False,False,True,False
+504,3650,Ready to Move,semi-furnished,725.0,4,Aundh,3,True,False,False,True,False,False,True,False
+505,796,Under Construction,semi-furnished,95.7,2,Aundh,0,False,True,False,True,False,False,True,False
+506,1163,Under Construction,unfurnished,150.0,3,Aundh,1,False,True,False,False,True,False,False,True
+507,2500,Ready to Move,semi-furnished,365.0,4,Aundh,2,True,False,False,True,False,False,True,False
+508,1115,Under Construction,unfurnished,110.00000000000001,3,Aundh,1,False,True,False,False,True,False,False,True
+509,1150,Ready to Move,unfurnished,175.0,3,Aundh,1,True,False,False,False,True,False,False,True
+510,1700,Ready to Move,unfurnished,320.0,3,Aundh,2,True,False,False,False,True,False,False,True
+511,2200,Ready to Move,semi-furnished,390.0,5,Aundh,2,True,False,False,True,False,False,True,False
+512,1724,Under Construction,semi-furnished,275.0,4,Aundh,2,False,True,False,True,False,False,True,False
+513,3755,Ready to Move,unfurnished,611.0,5,Aundh,3,True,False,False,False,True,False,False,True
+514,1600,Under Construction,semi-furnished,202.0,4,Aundh,2,False,True,False,True,False,False,True,False
+515,1711,Under Construction,unfurnished,265.0,4,Aundh,2,False,True,False,False,True,False,False,True
+516,2500,Ready to Move,furnished,649.0,4,Aundh,3,True,False,True,False,False,True,False,False
+517,1606,Ready to Move,furnished,320.0,3,Aundh,2,True,False,True,False,False,True,False,False
+518,1700,Ready to Move,furnished,300.0,3,Aundh,2,True,False,True,False,False,True,False,False
+519,1135,Under Construction,unfurnished,165.0,3,Aundh,1,False,True,False,False,True,False,False,True
+520,2500,Ready to Move,furnished,500.0,4,Aundh,3,True,False,True,False,False,True,False,False
+521,1950,Ready to Move,semi-furnished,380.0,4,Aundh,2,True,False,False,True,False,False,True,False
+522,786,Ready to Move,unfurnished,127.0,2,Aundh,1,True,False,False,False,True,False,False,True
+523,1166,Under Construction,unfurnished,143.0,3,Aundh,1,False,True,False,False,True,False,False,True
+524,1482,Under Construction,unfurnished,229.99999999999997,4,Aundh,2,False,True,False,False,True,False,False,True
+525,542,Ready to Move,semi-furnished,56.0,1,Pimple Gurav,0,True,False,False,True,False,False,True,False
+526,1355,Ready to Move,unfurnished,185.0,3,Pimple Gurav,1,True,False,False,False,True,False,False,True
+527,855,Ready to Move,semi-furnished,114.99999999999999,2,Pimple Gurav,1,True,False,False,True,False,False,True,False
+528,950,Ready to Move,unfurnished,75.0,2,Pimple Gurav,0,True,False,False,False,True,False,False,True
+529,550,Ready to Move,semi-furnished,42.0,2,Pimple Gurav,0,True,False,False,True,False,False,True,False
+530,896,Ready to Move,furnished,110.00000000000001,2,Pimple Gurav,1,True,False,True,False,False,True,False,False
+531,456,Ready to Move,unfurnished,30.0,1,Pimple Gurav,0,True,False,False,False,True,False,False,True
+532,1150,Ready to Move,furnished,131.0,3,Pimple Gurav,1,True,False,True,False,False,True,False,False
+533,680,Ready to Move,furnished,65.0,2,Pimple Gurav,0,True,False,True,False,False,True,False,False
+534,636,Ready to Move,unfurnished,35.0,2,Pimple Gurav,0,True,False,False,False,True,False,False,True
+535,888,Ready to Move,unfurnished,99.0,2,Pimple Gurav,0,True,False,False,False,True,False,False,True
+536,857,Ready to Move,semi-furnished,140.0,3,Pimple Gurav,1,True,False,False,True,False,False,True,False
+537,946,Ready to Move,semi-furnished,112.00000000000001,3,Pimple Gurav,1,True,False,False,True,False,False,True,False
+538,539,Ready to Move,furnished,75.3,2,Pimple Gurav,0,True,False,True,False,False,True,False,False
+539,792,Ready to Move,furnished,125.0,2,Pimple Gurav,1,True,False,True,False,False,True,False,False
+540,484,Ready to Move,unfurnished,55.0,1,Pimple Gurav,0,True,False,False,False,True,False,False,True
+541,439,Ready to Move,semi-furnished,38.0,1,Pimple Gurav,0,True,False,False,True,False,False,True,False
+542,900,Ready to Move,semi-furnished,80.0,2,Pimple Gurav,0,True,False,False,True,False,False,True,False
+543,406,Ready to Move,unfurnished,55.0,2,Pimple Gurav,0,True,False,False,False,True,False,False,True
+544,1008,Ready to Move,furnished,140.0,3,Pimple Gurav,1,True,False,True,False,False,True,False,False
+545,695,Ready to Move,unfurnished,73.0,2,Pimple Gurav,0,True,False,False,False,True,False,False,True
+546,738,Ready to Move,furnished,76.0,2,Pimple Gurav,0,True,False,True,False,False,True,False,False
+547,989,Ready to Move,unfurnished,120.0,3,Pimple Gurav,1,True,False,False,False,True,False,False,True
+548,853,Ready to Move,unfurnished,64.0,2,Pimple Gurav,0,True,False,False,False,True,False,False,True
+549,900,Ready to Move,unfurnished,63.0,2,Pimple Gurav,0,True,False,False,False,True,False,False,True
+550,1060,Ready to Move,unfurnished,105.0,2,Pimple Gurav,1,True,False,False,False,True,False,False,True
+551,935,Ready to Move,unfurnished,70.0,2,Pimple Gurav,0,True,False,False,False,True,False,False,True
+552,869,Ready to Move,semi-furnished,68.5,2,Pimple Gurav,0,True,False,False,True,False,False,True,False
+553,637,Ready to Move,semi-furnished,40.0,1,Pimple Gurav,0,True,False,False,True,False,False,True,False
+554,1100,Ready to Move,semi-furnished,73.0,2,Pimple Gurav,0,True,False,False,True,False,False,True,False
+555,1833,Under Construction,unfurnished,350.0,4,Pimple Nilakh,2,False,True,False,False,True,False,False,True
+556,1430,Under Construction,unfurnished,275.0,3,Pimple Nilakh,2,False,True,False,False,True,False,False,True
+557,1091,Under Construction,unfurnished,129.0,3,Pimple Nilakh,1,False,True,False,False,True,False,False,True
+558,2700,Ready to Move,semi-furnished,575.0,5,Pimple Nilakh,3,True,False,False,True,False,False,True,False
+559,1154,Under Construction,unfurnished,163.0,3,Pimple Nilakh,1,False,True,False,False,True,False,False,True
+560,1550,Ready to Move,semi-furnished,320.0,3,Pimple Nilakh,2,True,False,False,True,False,False,True,False
+561,1100,Ready to Move,unfurnished,119.0,2,Pimple Nilakh,1,True,False,False,False,True,False,False,True
+562,2240,Under Construction,semi-furnished,444.00000000000006,4,Pimple Nilakh,3,False,True,False,True,False,False,True,False
+563,1156,Under Construction,semi-furnished,156.0,3,Pimple Nilakh,1,False,True,False,True,False,False,True,False
+564,1823,Under Construction,furnished,280.0,4,Pimple Nilakh,2,False,True,True,False,False,True,False,False
+565,2730,Ready to Move,furnished,565.0,4,Pimple Nilakh,3,True,False,True,False,False,True,False,False
+566,2200,Ready to Move,semi-furnished,390.0,4,Pimple Nilakh,2,True,False,False,True,False,False,True,False
+567,1154,Under Construction,unfurnished,160.0,3,Pimple Nilakh,1,False,True,False,False,True,False,False,True
+568,1433,Under Construction,unfurnished,254.99999999999997,3,Pimple Nilakh,2,False,True,False,False,True,False,False,True
+569,1600,Ready to Move,unfurnished,340.0,4,Pimple Nilakh,2,True,False,False,False,True,False,False,True
+570,779,Under Construction,unfurnished,92.7,2,Pimple Nilakh,0,False,True,False,False,True,False,False,True
+571,9500,Ready to Move,semi-furnished,950.0,5,Pimple Nilakh,3,True,False,False,True,False,False,True,False
+572,1433,Under Construction,unfurnished,245.00000000000003,3,Pimple Nilakh,2,False,True,False,False,True,False,False,True
+573,1774,Under Construction,unfurnished,298.0,4,Pimple Nilakh,2,False,True,False,False,True,False,False,True
+574,2240,Under Construction,unfurnished,317.0,4,Pimple Nilakh,2,False,True,False,False,True,False,False,True
+575,1433,Under Construction,semi-furnished,229.0,3,Pimple Nilakh,2,False,True,False,True,False,False,True,False
+576,1920,Ready to Move,furnished,330.0,4,Pimple Nilakh,2,True,False,True,False,False,True,False,False
+577,2148,Ready to Move,unfurnished,445.0,4,Pimple Nilakh,3,True,False,False,False,True,False,False,True
+578,1131,Under Construction,semi-furnished,153.0,3,Pimple Nilakh,1,False,True,False,True,False,False,True,False
+579,1824,Under Construction,unfurnished,326.0,4,Pimple Nilakh,2,False,True,False,False,True,False,False,True
+580,1131,Under Construction,furnished,153.0,3,Pimple Nilakh,1,False,True,True,False,False,True,False,False
+581,1810,Under Construction,semi-furnished,324.0,4,Pimple Nilakh,2,False,True,False,True,False,False,True,False
+582,1824,Under Construction,semi-furnished,326.0,4,Pimple Nilakh,2,False,True,False,True,False,False,True,False
+583,1131,Under Construction,unfurnished,153.0,3,Pimple Nilakh,1,False,True,False,False,True,False,False,True
+584,1810,Under Construction,furnished,324.0,4,Pimple Nilakh,2,False,True,True,False,False,True,False,False
